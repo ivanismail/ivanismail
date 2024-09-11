@@ -19,11 +19,11 @@ I am a developer who is enthusiastic in developing web and mobile applications
 <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></code>
 
 ### 🗄️ Databases
-<code><img alt="SQL Server" src="https://img.shields.io/badge/MySql-fff.svg?logo=mysql&logoColor=black"></code>
+<code><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927.svg"></code>
 <code><img alt="MySql" src="https://img.shields.io/badge/MySql-fff.svg?logo=mysql&logoColor=black"></code>
-<code><img alt="SQLite" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></code>
+<code><img alt="SQLite" src="https://custom-icon-badges.herokuapp.com/badge/SQLite-blue?logo=sqlite&logoColor=white"></code>
 
-### 💻 Software and tools
+### 💻 Software and Tools
 <code><img alt="Git" src="https://img.shields.io/badge/Git-008678.svg?logo=git&logoColor=white"></code>
 <code><img alt="Vs Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?logo=Visual Studio Code&logoColor=white"></code>
 <code><img alt="X Code" src="https://img.shields.io/badge/Xcode-008678.svg?logo=xcode&logoColor=white"></code>
