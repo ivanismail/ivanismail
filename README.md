@@ -32,8 +32,12 @@ I am a developer who is enthusiastic in developing web and mobile applications
 <code><img alt="Docker" src="https://img.shields.io/badge/Docker-327FC7.svg?logo=docker&logoColor=white"></code>
 
 ## 📊 Statistik
-![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanismail&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanismail&layout=compact&theme=radical)
+<a href="https://github.com/ivanismail/"><img alt="samih's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ivanismail&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/ivanismail"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanismail&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<br/>
+
+<a href="https://github.com/ivanismail"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ivanismail&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 
 
